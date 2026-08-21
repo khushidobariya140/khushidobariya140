@@ -10,6 +10,10 @@
 
 </div>
 
+<p align="center">
+Hey, I'm Khushi 👋 I like taking messy spreadsheets and turning them into dashboards that actually tell a story. Below are a few of my favorites — built in Power BI and Excel, powered by way too much coffee ☕
+</p>
+
 <h1 align="center">📊 Project Showcase</h1>
 
 <br>
@@ -160,30 +164,29 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushidobariya140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidobariya140&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khushidobariya140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidobariya140&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%"/>
 
 </div>
 
 <br>
 
-## 🤝 Connect
+## 💬 Let's Talk Data
 
 <div align="center">
 
-<a href="https://github.com/khushidobariya140">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:youremail@example.com">
+Got a dataset that needs a story, a dashboard idea, or just want to talk analytics? I'd love to connect.
+
+<a href="mailto:khushidobariya140@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/khushi-dobariya-a137813b4/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=khushidobariya140&label=Profile+Views&color=6D28D9&style=for-the-badge" />
+<i>Thanks for stopping by my profile — hope one of these dashboards inspired an idea for your own data! 🌱</i>
 
 </div>
 
