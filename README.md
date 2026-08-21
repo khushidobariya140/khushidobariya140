@@ -188,16 +188,20 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=khushidobariya140&theme=tokyonight&hide_border=true&background=1a1b27" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidobariya140&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="38%"/>
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=khushidobariya140&theme=tokyonight&hide_border=true&background=1a1b27" width="100%"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidobariya140&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%"/>
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
-<img src="assets/radar-stats.svg" width="55%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushidobariya140&theme=tokyo-night&bg_color=1a1b27&color=39d353&line=39d353&point=c9cbff&area=true&area_color=39d353&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushidobariya140&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c9cbff&area=true&area_color=7aa2f7&hide_border=true" width="95%"/>
 
 </div>
 
