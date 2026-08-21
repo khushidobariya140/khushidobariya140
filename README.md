@@ -14,6 +14,10 @@
 
 <br><br>
 
+<img src="assets/orbit-skills.svg" width="70%">
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 </div>
@@ -21,6 +25,14 @@
 <p align="center">
 Hey, I'm Khushi 👋 I like taking messy spreadsheets and turning them into dashboards that actually tell a story. Below are a few of my favorites — built in Power BI and Excel, powered by way too much coffee ☕
 </p>
+
+<h2 align="center">🧠 Skills</h2>
+
+<div align="center">
+<img src="assets/skill-bars.svg" width="90%">
+</div>
+
+<br>
 
 <h1 align="center">📊 Project Showcase</h1>
 
@@ -52,7 +64,9 @@ Analysis of UPI transaction trends across PhonePe, Google Pay, Paytm, Amazon Pay
 </tr>
 </table>
 
-<br>
+<div align="center">
+<img src="assets/wave-divider.svg" width="100%">
+</div>
 
 <!-- PROJECT 2 : image right -->
 <table>
@@ -80,7 +94,9 @@ End-to-end retail performance dashboard tracking revenue, orders, customers, chu
 </tr>
 </table>
 
-<br>
+<div align="center">
+<img src="assets/wave-divider.svg" width="100%">
+</div>
 
 <!-- PROJECT 3 : image left -->
 <table>
@@ -108,7 +124,9 @@ Forecasting and comparison dashboard for INR exchange rates against major world 
 </tr>
 </table>
 
-<br>
+<div align="center">
+<img src="assets/wave-divider.svg" width="100%">
+</div>
 
 <!-- PROJECT 4 : image right -->
 <table>
@@ -136,7 +154,9 @@ Department-wise employee analysis covering headcount, performance scores, salari
 </tr>
 </table>
 
-<br>
+<div align="center">
+<img src="assets/wave-divider.svg" width="100%">
+</div>
 
 <!-- PROJECT 5 : image left -->
 <table>
