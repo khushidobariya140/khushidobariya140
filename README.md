@@ -10,11 +10,7 @@
 
 <br><br>
 
-<img src="assets/data-animation.svg" width="90%">
-
-<br><br>
-
-<img src="assets/orbit-skills.svg" width="70%">
+<img src="assets/hero-animation.svg" width="95%">
 
 <br><br>
 
@@ -192,7 +188,16 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 
 <div align="center">
 
-<img src="assets/metrics.svg" width="100%">
+<img src="https://streak-stats.demolab.com/?user=khushidobariya140&theme=tokyonight&hide_border=true&background=1a1b27" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidobariya140&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="38%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushidobariya140&theme=tokyo_night" width="45%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushidobariya140&theme=tokyo-night&bg_color=1a1b27&color=39d353&line=39d353&point=c9cbff&area=true&area_color=39d353&hide_border=true" width="95%"/>
 
 </div>
 
