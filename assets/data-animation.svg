@@ -1,0 +1,78 @@
+<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Animated data chart illustration</title>
+<desc>Bars growing to represent data analysis, with a moving trend line and orbiting dots</desc>
+
+<defs>
+  <linearGradient id="barGrad" x1="0" y1="1" x2="0" y2="0">
+    <stop offset="0%" stop-color="#06B6D4"/>
+    <stop offset="100%" stop-color="#6D28D9"/>
+  </linearGradient>
+</defs>
+
+<!-- baseline -->
+<line x1="60" y1="160" x2="620" y2="160" stroke="#4B5563" stroke-width="1" opacity="0.4"/>
+
+<!-- animated bars -->
+<g>
+  <rect x="90"  y="160" width="36" height="0" rx="4" fill="url(#barGrad)">
+    <animate attributeName="height" from="0" to="70" dur="1.2s" begin="0s" fill="freeze" />
+    <animate attributeName="y" from="160" to="90" dur="1.2s" begin="0s" fill="freeze" />
+    <animate attributeName="height" values="70;78;70" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="90;82;90" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="160" y="160" width="36" height="0" rx="4" fill="url(#barGrad)">
+    <animate attributeName="height" from="0" to="110" dur="1.2s" begin="0.15s" fill="freeze" />
+    <animate attributeName="y" from="160" to="50" dur="1.2s" begin="0.15s" fill="freeze" />
+    <animate attributeName="height" values="110;100;110" dur="2.6s" begin="1.35s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="50;60;50" dur="2.6s" begin="1.35s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="230" y="160" width="36" height="0" rx="4" fill="url(#barGrad)">
+    <animate attributeName="height" from="0" to="55" dur="1.2s" begin="0.3s" fill="freeze" />
+    <animate attributeName="y" from="160" to="105" dur="1.2s" begin="0.3s" fill="freeze" />
+    <animate attributeName="height" values="55;65;55" dur="2.2s" begin="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="105;95;105" dur="2.2s" begin="1.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="300" y="160" width="36" height="0" rx="4" fill="url(#barGrad)">
+    <animate attributeName="height" from="0" to="90" dur="1.2s" begin="0.45s" fill="freeze" />
+    <animate attributeName="y" from="160" to="70" dur="1.2s" begin="0.45s" fill="freeze" />
+    <animate attributeName="height" values="90;80;90" dur="2.5s" begin="1.65s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="70;80;70" dur="2.5s" begin="1.65s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="370" y="160" width="36" height="0" rx="4" fill="url(#barGrad)">
+    <animate attributeName="height" from="0" to="130" dur="1.2s" begin="0.6s" fill="freeze" />
+    <animate attributeName="y" from="160" to="30" dur="1.2s" begin="0.6s" fill="freeze" />
+    <animate attributeName="height" values="130;120;130" dur="2.7s" begin="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="30;40;30" dur="2.7s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="440" y="160" width="36" height="0" rx="4" fill="url(#barGrad)">
+    <animate attributeName="height" from="0" to="75" dur="1.2s" begin="0.75s" fill="freeze" />
+    <animate attributeName="y" from="160" to="85" dur="1.2s" begin="0.75s" fill="freeze" />
+    <animate attributeName="height" values="75;85;75" dur="2.3s" begin="1.95s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="85;75;85" dur="2.3s" begin="1.95s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="510" y="160" width="36" height="0" rx="4" fill="url(#barGrad)">
+    <animate attributeName="height" from="0" to="100" dur="1.2s" begin="0.9s" fill="freeze" />
+    <animate attributeName="y" from="160" to="60" dur="1.2s" begin="0.9s" fill="freeze" />
+    <animate attributeName="height" values="100;110;100" dur="2.6s" begin="2.1s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="60;50;60" dur="2.6s" begin="2.1s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<!-- moving trend line -->
+<polyline points="90,120 160,70 230,110 300,90 370,45 440,95 510,65" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+  <animate attributeName="opacity" values="0;0.9" dur="0.6s" begin="1.2s" fill="freeze"/>
+</polyline>
+
+<!-- orbiting dot following the trend line, loops forever -->
+<circle r="5" fill="#F59E0B">
+  <animateMotion dur="4s" begin="1.4s" repeatCount="indefinite"
+    path="M90,120 L160,70 L230,110 L300,90 L370,45 L440,95 L510,65" />
+</circle>
+
+</svg>
