@@ -194,7 +194,7 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=khushidobariya140&theme=tokyonight&hide_border=true&background=1a1b27" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidobariya140&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidobariya140&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="100%"/>
 </td>
 </tr>
 </table>
@@ -202,6 +202,16 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushidobariya140&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c9cbff&area=true&area_color=7aa2f7&hide_border=true" width="95%"/>
+
+<br><br>
+
+<h3>🐍 Contribution Snake</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushidobariya140/khushidobariya140/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushidobariya140/khushidobariya140/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/khushidobariya140/khushidobariya140/output/github-contribution-grid-snake.svg" width="95%">
+</picture>
 
 </div>
 
