@@ -1,0 +1,18 @@
+<svg width="100%" viewBox="0 0 680 40" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Section divider</title>
+<desc>Decorative animated wave line dividing two sections</desc>
+
+<path fill="none" stroke="#06B6D4" stroke-width="2" stroke-linecap="round" opacity="0.7"
+  d="M0,20 Q17,5 34,20 T68,20 T102,20 T136,20 T170,20 T204,20 T238,20 T272,20 T306,20 T340,20 T374,20 T408,20 T442,20 T476,20 T510,20 T544,20 T578,20 T612,20 T646,20 T680,20">
+  <animate attributeName="d" dur="3s" repeatCount="indefinite"
+    values="
+      M0,20 Q17,5 34,20 T68,20 T102,20 T136,20 T170,20 T204,20 T238,20 T272,20 T306,20 T340,20 T374,20 T408,20 T442,20 T476,20 T510,20 T544,20 T578,20 T612,20 T646,20 T680,20;
+      M0,20 Q17,35 34,20 T68,20 T102,20 T136,20 T170,20 T204,20 T238,20 T272,20 T306,20 T340,20 T374,20 T408,20 T442,20 T476,20 T510,20 T544,20 T578,20 T612,20 T646,20 T680,20;
+      M0,20 Q17,5 34,20 T68,20 T102,20 T136,20 T170,20 T204,20 T238,20 T272,20 T306,20 T340,20 T374,20 T408,20 T442,20 T476,20 T510,20 T544,20 T578,20 T612,20 T646,20 T680,20"/>
+</path>
+
+<circle r="4" fill="#F59E0B">
+  <animateMotion dur="3s" repeatCount="indefinite" path="M0,20 L680,20"/>
+</circle>
+
+</svg>

@@ -1,0 +1,62 @@
+<svg width="100%" viewBox="0 0 680 260" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Animated skill progress bars</title>
+<desc>Progress bars filling to show proficiency in Power BI, Excel, SQL, Python, and Data Storytelling</desc>
+
+<defs>
+  <linearGradient id="skillGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#6D28D9"/>
+    <stop offset="100%" stop-color="#06B6D4"/>
+  </linearGradient>
+</defs>
+
+<!-- Power BI 90% -->
+<text x="40" y="34" font-size="14" font-weight="600" fill="#9CA3AF" font-family="Arial, sans-serif">Power BI</text>
+<rect x="40" y="42" width="600" height="10" rx="5" fill="#374151" opacity="0.4"/>
+<rect x="40" y="42" width="0" height="10" rx="5" fill="url(#skillGrad)">
+  <animate attributeName="width" from="0" to="540" dur="1.6s" begin="0.1s" fill="freeze"/>
+</rect>
+<text x="646" y="52" font-size="12" fill="#06B6D4" font-family="Arial, sans-serif" text-anchor="end" opacity="0">90%
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.5s" fill="freeze"/>
+</text>
+
+<!-- Excel 92% -->
+<text x="40" y="80" font-size="14" font-weight="600" fill="#9CA3AF" font-family="Arial, sans-serif">Excel</text>
+<rect x="40" y="88" width="600" height="10" rx="5" fill="#374151" opacity="0.4"/>
+<rect x="40" y="88" width="0" height="10" rx="5" fill="url(#skillGrad)">
+  <animate attributeName="width" from="0" to="552" dur="1.6s" begin="0.25s" fill="freeze"/>
+</rect>
+<text x="646" y="98" font-size="12" fill="#06B6D4" font-family="Arial, sans-serif" text-anchor="end" opacity="0">92%
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.65s" fill="freeze"/>
+</text>
+
+<!-- SQL 80% -->
+<text x="40" y="126" font-size="14" font-weight="600" fill="#9CA3AF" font-family="Arial, sans-serif">SQL</text>
+<rect x="40" y="134" width="600" height="10" rx="5" fill="#374151" opacity="0.4"/>
+<rect x="40" y="134" width="0" height="10" rx="5" fill="url(#skillGrad)">
+  <animate attributeName="width" from="0" to="480" dur="1.6s" begin="0.4s" fill="freeze"/>
+</rect>
+<text x="646" y="144" font-size="12" fill="#06B6D4" font-family="Arial, sans-serif" text-anchor="end" opacity="0">80%
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.8s" fill="freeze"/>
+</text>
+
+<!-- Python (learning) 55% -->
+<text x="40" y="172" font-size="14" font-weight="600" fill="#9CA3AF" font-family="Arial, sans-serif">Python for Data Science</text>
+<rect x="40" y="180" width="600" height="10" rx="5" fill="#374151" opacity="0.4"/>
+<rect x="40" y="180" width="0" height="10" rx="5" fill="url(#skillGrad)">
+  <animate attributeName="width" from="0" to="330" dur="1.6s" begin="0.55s" fill="freeze"/>
+</rect>
+<text x="646" y="190" font-size="12" fill="#06B6D4" font-family="Arial, sans-serif" text-anchor="end" opacity="0">55%
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.95s" fill="freeze"/>
+</text>
+
+<!-- Data Storytelling 85% -->
+<text x="40" y="218" font-size="14" font-weight="600" fill="#9CA3AF" font-family="Arial, sans-serif">Data Storytelling</text>
+<rect x="40" y="226" width="600" height="10" rx="5" fill="#374151" opacity="0.4"/>
+<rect x="40" y="226" width="0" height="10" rx="5" fill="url(#skillGrad)">
+  <animate attributeName="width" from="0" to="510" dur="1.6s" begin="0.7s" fill="freeze"/>
+</rect>
+<text x="646" y="236" font-size="12" fill="#06B6D4" font-family="Arial, sans-serif" text-anchor="end" opacity="0">85%
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.1s" fill="freeze"/>
+</text>
+
+</svg>
