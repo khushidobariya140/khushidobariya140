@@ -2,9 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Khushi%20Dobariya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Dashboards%20%7C%20Insights&descAlignY=55&descSize=18" width="100%"/>
 
+<br>
+
 <a href="https://github.com/khushidobariya140">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Turning+Raw+Data+into+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Explore+My+Data+Projects+Below+%F0%9F%91%87" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Turning+Raw+Data+into+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Explore+My+Data+Projects+Below+%F0%9F%91%87" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<img src="assets/data-animation.svg" width="90%">
+
+<br><br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -164,8 +172,7 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushidobariya140&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidobariya140&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%"/>
+<img src="assets/metrics.svg" width="100%">
 
 </div>
 
