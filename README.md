@@ -188,12 +188,12 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=khushidobariya140&theme=tokyonight&hide_border=true&background=1a1b27" width="48%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=khushidobariya140&theme=tokyonight&hide_border=true&background=1a1b27" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushidobariya140&layout=pie&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="38%"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushidobariya140&theme=tokyo_night" width="45%"/>
+<img src="assets/radar-stats.svg" width="55%"/>
 
 <br><br>
 
