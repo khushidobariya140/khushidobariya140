@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=200&section=header&text=Khushi%20Dobariya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Dashboards%20%7C%20Insights&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0EA5E9&height=200&section=header&text=Khushi%20Dobariya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
 <a href="https://github.com/khushidobariya140">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Turning+Raw+Data+into+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Explore+My+Data+Projects+Below+%F0%9F%91%87" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Data+Analyst;Data+Science;Supervised+Machine+Learning;Deep+Learning;NLP+and+Gen+AI" alt="Typing SVG" />
 </a>
 
 <p>
@@ -197,11 +197,11 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=khushidobariya140&theme=tokyonight&hide_border=true&background=1a1b27" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=khushidobariya140&background=0F172A&ring=2563EB&fire=0EA5E9&currStreakNum=FFFFFF&sideNums=E2E8F0&currStreakLabel=0EA5E9&sideLabels=94A3B8&dates=64748B&hide_border=true" width="60%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushidobariya140&theme=tokyo-night&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c9cbff&area=true&area_color=7aa2f7&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushidobariya140&bg_color=0F172A&color=2563EB&line=2563EB&point=0EA5E9&area=true&area_color=2563EB&hide_border=true" width="95%"/>
 
 <br><br>
 
@@ -236,4 +236,4 @@ Got a dataset that needs a story, a dashboard idea, or just want to talk analyti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1E3A8A&height=120&section=footer" width="100%"/>
