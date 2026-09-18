@@ -24,8 +24,14 @@ Hey, I'm Khushi 👋 I like taking messy spreadsheets and turning them into dash
 <img src="assets/hero-animation.svg" width="95%">
 
 <br><br>
-<img src="assets/divider.svg" width="100%">
-<br>
+
+## 🖥️ What I'm Running Right Now
+
+<div align="center">
+<img src="assets/terminal.svg" width="80%">
+</div>
+
+<br><br>
 
 ## 🧠 Skills
 
@@ -33,9 +39,15 @@ Hey, I'm Khushi 👋 I like taking messy spreadsheets and turning them into dash
 <img src="assets/skill-bars.svg" width="90%">
 </div>
 
-<br>
-<img src="assets/divider.svg" width="100%">
-<br>
+<br><br>
+
+## 🛤️ My Data Science Roadmap
+
+<div align="center">
+<img src="assets/roadmap.svg" width="95%">
+</div>
+
+<br><br>
 
 ## 📊 Project Showcase
 
@@ -179,9 +191,7 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 </tr>
 </table>
 
-<br>
-<img src="assets/divider.svg" width="100%">
-<br>
+<br><br>
 
 ## 📈 GitHub Stats
 
@@ -205,9 +215,7 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 
 </div>
 
-<br>
-<img src="assets/divider.svg" width="100%">
-<br>
+<br><br>
 
 ## 💬 Let's Talk Data
 
