@@ -8,29 +8,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Turning+Raw+Data+into+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Explore+My+Data+Projects+Below+%F0%9F%91%87" alt="Typing SVG" />
 </a>
 
-<br><br>
+<p>
+Hey, I'm Khushi 👋 I like taking messy spreadsheets and turning them into dashboards that actually tell a story. Below are a few of my favorites — built in Power BI and Excel, powered by way too much coffee ☕
+</p>
+
+<a href="#-skills">Skills</a> •
+<a href="#-project-showcase">Projects</a> •
+<a href="#-github-stats">Stats</a> •
+<a href="#-lets-talk-data">Contact</a>
+
+</div>
+
+<br>
 
 <img src="assets/hero-animation.svg" width="95%">
 
 <br><br>
+<img src="assets/divider.svg" width="100%">
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-</div>
-
-<p align="center">
-Hey, I'm Khushi 👋 I like taking messy spreadsheets and turning them into dashboards that actually tell a story. Below are a few of my favorites — built in Power BI and Excel, powered by way too much coffee ☕
-</p>
-
-<h2 align="center">🧠 Skills</h2>
+## 🧠 Skills
 
 <div align="center">
 <img src="assets/skill-bars.svg" width="90%">
 </div>
 
 <br>
+<img src="assets/divider.svg" width="100%">
+<br>
 
-<h1 align="center">📊 Project Showcase</h1>
+## 📊 Project Showcase
 
 <br>
 
@@ -60,9 +67,7 @@ Analysis of UPI transaction trends across PhonePe, Google Pay, Paytm, Amazon Pay
 </tr>
 </table>
 
-<div align="center">
-<img src="assets/wave-divider.svg" width="100%">
-</div>
+<br>
 
 <!-- PROJECT 2 : image right -->
 <table>
@@ -90,9 +95,7 @@ End-to-end retail performance dashboard tracking revenue, orders, customers, chu
 </tr>
 </table>
 
-<div align="center">
-<img src="assets/wave-divider.svg" width="100%">
-</div>
+<br>
 
 <!-- PROJECT 3 : image left -->
 <table>
@@ -120,9 +123,7 @@ Forecasting and comparison dashboard for INR exchange rates against major world 
 </tr>
 </table>
 
-<div align="center">
-<img src="assets/wave-divider.svg" width="100%">
-</div>
+<br>
 
 <!-- PROJECT 4 : image right -->
 <table>
@@ -150,9 +151,7 @@ Department-wise employee analysis covering headcount, performance scores, salari
 </tr>
 </table>
 
-<div align="center">
-<img src="assets/wave-divider.svg" width="100%">
-</div>
+<br>
 
 <!-- PROJECT 5 : image left -->
 <table>
@@ -181,8 +180,8 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 </table>
 
 <br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="assets/divider.svg" width="100%">
+<br>
 
 ## 📈 GitHub Stats
 
@@ -206,6 +205,8 @@ Academic performance tracking dashboard analyzing scores, attendance, and sectio
 
 </div>
 
+<br>
+<img src="assets/divider.svg" width="100%">
 <br>
 
 ## 💬 Let's Talk Data
